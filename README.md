@@ -1,2 +1,2 @@
-# stigmism.github.io
+# stigimism.github.io
 README file
